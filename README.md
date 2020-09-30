@@ -12,6 +12,6 @@ We had originally planned to work on this project for multiple semesters and add
 
 Due to the ongoing pandemic I was unable to access my University's Vive, so I had to capture footage in the editor.
 
-[![Youtube link of the project](https://img.youtube.com/vi/Sq6y-QfqLwo/0.jpg)](https://www.youtube.com/watch?v=Sq6y-QfqLwo)
+[![Youtube link of the project](https://i.imgur.com/RZeRbNJ.png)](https://www.youtube.com/watch?v=Sq6y-QfqLwo)
 
 https://www.youtube.com/watch?v=Sq6y-QfqLwo
